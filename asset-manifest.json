@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/grapeslab/static/css/main.97771ea6.chunk.css",
+    "main.js": "/grapeslab/static/js/main.27d4f0c8.chunk.js",
+    "main.js.map": "/grapeslab/static/js/main.27d4f0c8.chunk.js.map",
+    "runtime-main.js": "/grapeslab/static/js/runtime-main.c6ecbb0a.js",
+    "runtime-main.js.map": "/grapeslab/static/js/runtime-main.c6ecbb0a.js.map",
+    "static/css/2.983f79de.chunk.css": "/grapeslab/static/css/2.983f79de.chunk.css",
+    "static/js/2.705a4b5d.chunk.js": "/grapeslab/static/js/2.705a4b5d.chunk.js",
+    "static/js/2.705a4b5d.chunk.js.map": "/grapeslab/static/js/2.705a4b5d.chunk.js.map",
+    "index.html": "/grapeslab/index.html",
+    "static/css/2.983f79de.chunk.css.map": "/grapeslab/static/css/2.983f79de.chunk.css.map",
+    "static/css/main.97771ea6.chunk.css.map": "/grapeslab/static/css/main.97771ea6.chunk.css.map",
+    "static/js/2.705a4b5d.chunk.js.LICENSE.txt": "/grapeslab/static/js/2.705a4b5d.chunk.js.LICENSE.txt",
+    "static/media/dummyImg.e10c9a8b.jpg": "/grapeslab/static/media/dummyImg.e10c9a8b.jpg",
+    "static/media/icon1.727e1e14.jpg": "/grapeslab/static/media/icon1.727e1e14.jpg",
+    "static/media/icon2.6dcc131a.jpg": "/grapeslab/static/media/icon2.6dcc131a.jpg",
+    "static/media/icon3.9707dc40.jpg": "/grapeslab/static/media/icon3.9707dc40.jpg",
+    "static/media/image.14f8240f.jpg": "/grapeslab/static/media/image.14f8240f.jpg",
+    "static/media/logo.ff0db1e1.jpg": "/grapeslab/static/media/logo.ff0db1e1.jpg",
+    "static/media/s1.ede7d24a.jpg": "/grapeslab/static/media/s1.ede7d24a.jpg",
+    "static/media/s2.d93290bf.jpg": "/grapeslab/static/media/s2.d93290bf.jpg",
+    "static/media/s3.81dabaf5.jpg": "/grapeslab/static/media/s3.81dabaf5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c6ecbb0a.js",
+    "static/css/2.983f79de.chunk.css",
+    "static/js/2.705a4b5d.chunk.js",
+    "static/css/main.97771ea6.chunk.css",
+    "static/js/main.27d4f0c8.chunk.js"
+  ]
+}
