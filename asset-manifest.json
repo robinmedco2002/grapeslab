@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/grapeslab/static/css/main.88c4ac56.chunk.css",
-    "main.js": "/grapeslab/static/js/main.01b900c8.chunk.js",
-    "main.js.map": "/grapeslab/static/js/main.01b900c8.chunk.js.map",
+    "main.css": "/grapeslab/static/css/main.025c0ebe.chunk.css",
+    "main.js": "/grapeslab/static/js/main.38305bf6.chunk.js",
+    "main.js.map": "/grapeslab/static/js/main.38305bf6.chunk.js.map",
     "runtime-main.js": "/grapeslab/static/js/runtime-main.c6ecbb0a.js",
     "runtime-main.js.map": "/grapeslab/static/js/runtime-main.c6ecbb0a.js.map",
     "static/css/2.818011ed.chunk.css": "/grapeslab/static/css/2.818011ed.chunk.css",
@@ -10,7 +10,7 @@
     "static/js/2.14aa51e2.chunk.js.map": "/grapeslab/static/js/2.14aa51e2.chunk.js.map",
     "index.html": "/grapeslab/index.html",
     "static/css/2.818011ed.chunk.css.map": "/grapeslab/static/css/2.818011ed.chunk.css.map",
-    "static/css/main.88c4ac56.chunk.css.map": "/grapeslab/static/css/main.88c4ac56.chunk.css.map",
+    "static/css/main.025c0ebe.chunk.css.map": "/grapeslab/static/css/main.025c0ebe.chunk.css.map",
     "static/js/2.14aa51e2.chunk.js.LICENSE.txt": "/grapeslab/static/js/2.14aa51e2.chunk.js.LICENSE.txt",
     "static/media/dummyImg.e10c9a8b.jpg": "/grapeslab/static/media/dummyImg.e10c9a8b.jpg",
     "static/media/icon1.b830183f.jpg": "/grapeslab/static/media/icon1.b830183f.jpg",
@@ -26,7 +26,7 @@
     "static/js/runtime-main.c6ecbb0a.js",
     "static/css/2.818011ed.chunk.css",
     "static/js/2.14aa51e2.chunk.js",
-    "static/css/main.88c4ac56.chunk.css",
-    "static/js/main.01b900c8.chunk.js"
+    "static/css/main.025c0ebe.chunk.css",
+    "static/js/main.38305bf6.chunk.js"
   ]
 }
